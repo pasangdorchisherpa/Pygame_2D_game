@@ -1,0 +1,11 @@
+{
+  "player": { "path": "task_1/toothbrush.png", "scale": [50, 50] },
+  "enemies": [ { "path": "task_1/germ1.png", "scale": [50, 50] } ],
+  "resources": [
+    { "name": "water", "path": "task_1/water.png", "scale": [50, 50] },
+    { "name": "soap", "path": "task_1/soap.png", "scale": [50, 50] },
+    { "name": "toothpaste2", "path": "task_1/toothpaste2.png", "scale": [50, 50] },
+    { "name": "toothpaste", "path": "task_1/toothpaste.jpg", "scale": [50, 50] }
+  ],
+  "background": { "path": "task_1/teeth.png", "scale": [800, 800] }
+}
