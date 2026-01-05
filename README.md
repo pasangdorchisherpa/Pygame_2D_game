@@ -44,6 +44,8 @@ Every pickup increases your score — and powers up the germ — so the longer y
 Install Pygame:
 ```bash
 pip install pygame
+```
+```bash
 python Main.py
 ```
 ---
