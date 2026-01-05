@@ -45,6 +45,9 @@ Install Pygame:
 ```bash
 pip install pygame
 ```
+---
+
+Run Game:
 ```bash
 python Main.py
 ```
